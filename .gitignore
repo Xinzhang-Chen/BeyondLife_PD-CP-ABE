@@ -1,0 +1,15 @@
+# Ignore all __pycache__ directories and their contents
+**/__pycache__/
+
+# Ignore the charm directory
+/charm/
+
+# Ignore the coverage executables
+Tests/pytest/codecov
+
+# Ignore the hypothesis folder
+.hypothesis/
+
+# Ignore the .pytest_cache folder
+.pytest_cache/
+
